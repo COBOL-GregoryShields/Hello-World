@@ -1,8 +1,9 @@
-.vscode/
+.vs/
+bin/
+obj/
+Properties/
+*.sln
+*.cblproj
+*.dep
+*.user
 person.dat
-Hello-World
-Hello-World.exe
-Real-Hello
-Real-Hello.exe
-Renames-Example
-Renames-Example.exe
